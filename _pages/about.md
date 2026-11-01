@@ -17,7 +17,7 @@ classes: wide
     </div>
   </div>
   <div class="academic-hero-photo">
-    <img src="/images/profile.jpg" alt="Portrait of Enoch Naanyaan Baatiekuu">
+    <img src="/images/profile.jpg.jpeg" alt="Portrait of Enoch Naanyaan Baatiekuu">
     <p>Enoch Naanyaan Baatiekuu</p>
     <span>Economist · Ghana</span>
   </div>
